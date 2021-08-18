@@ -3,7 +3,7 @@ tr.spaceUnder>td {
   }
   table {
     border-collapse: separate;
-    border-spacing: 0 1em;
+    border-spacing: 0 0.5em;
     
 }
 .col1{

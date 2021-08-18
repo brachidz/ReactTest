@@ -1,0 +1,62 @@
+tr.spaceUnder>td {
+    padding-bottom: 10em;
+  }
+  table {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    
+}
+.col1{
+    height: 44px;
+width: 223px;
+left: 143px;
+top: 50px;
+border-radius: nullpx;
+background: #F6F6F6;
+
+}
+.col2{
+    height: 44px;
+width: 224px;
+left: 368px;
+top: 50px;
+border-radius: nullpx;
+background: #F6F6F6;
+
+}.col3{
+    height: 44px;
+    width: 224px;
+    left: 594px;
+    top: 50px;
+    border-radius: 0px;
+    background: #F6F6F6;
+     
+}
+.col4{
+    height: 44px;
+    width: 140px;
+    left: 820px;
+    top: 50px;
+    border-radius: nullpx;
+    background: #F6F6F6;
+    
+}
+.col5{
+    height: 44px;
+    width: 303px;
+    left: 962px;
+    top: 50px;
+    border-radius: 0px;
+    background: #F6F6F6;
+    
+}.col6{
+    height: 44px;
+width: 213px;
+left: 1200px;
+top: 50px;
+border-radius: nullpx;
+background: #F6F6F6;
+
+}
+
+ 
